@@ -1,0 +1,37 @@
+@charset "UTF-8";
+article {
+    background-size: cover;
+    background-color: #E8DAEE;
+}
+header {
+    background-color: #FFFFFF;
+    width: 940px;
+    text-align: center;
+    background-size: cover;
+}
+main {
+    color: #000000;
+    background-image: url(IMG_0975.JPG);
+}
+nav {
+    background-color: #CAC4E1;
+    height: 35px;
+    line-height: 34px;
+    margin-left: 0px;
+    text-indent: 20px;
+    display: flex;
+    text-align: left;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.container {
+    width: 862px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+footer {
+    background-color: #F0BEBE;
+}
